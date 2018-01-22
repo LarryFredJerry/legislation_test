@@ -1,53 +1,45 @@
 [Congressional Bills 115th Congress]
 [From the U.S. Government Publishing Office]
-[H.R. 4661 Received in Senate (RDS)]
+[H.R. 4661 Enrolled Bill (ENR)]
 
-<DOC>
-115th CONGRESS
-  1st Session
-                                H. R. 4661
+        H.R.4661
+
+                     One Hundred Fifteenth Congress
+
+                                 of the
+
+                        United States of America
 
 
-_______________________________________________________________________
+                          AT THE FIRST SESSION
+
+          Begun and held at the City of Washington on Tuesday,
+          the third day of January, two thousand and seventeen
 
 
-                   IN THE SENATE OF THE UNITED STATES
-
-                           December 19, 2017
-
-                                Received
-
-_______________________________________________________________________
-
-                                 AN ACT
+                                 An Act
 
 
  
 To reauthorize the United States Fire Administration, the Assistance to 
-  Firefighters Grants program, the Fire Prevention and Safety Grants 
-  program, and the Staffing for Adequate Fire and Emergency Response 
-                 grant program, and for other purposes.
+   Firefighters Grants program, the Fire Prevention and Safety Grants 
+program, and the Staffing for Adequate Fire and Emergency Response grant 
+                    program, and for other purposes.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
-
 SECTION 1. SHORT TITLE.
-
     This Act may be cited as the ``United States Fire Administration, 
 AFG, and SAFER Program Reauthorization Act of 2017''.
-
 SEC. 2. REAUTHORIZATION OF THE UNITED STATES FIRE ADMINISTRATION.
-
     Section 17(g)(1)(M) of the Federal Fire Prevention and Control Act 
 of 1974 (15 U.S.C. 2216 (g)(1)(M)) is amended--
-            (1) by striking ``fiscal year 2017'' and inserting ``for 
-        each of fiscal years 2017 through 2023''; and
-            (2) by inserting ``for each such fiscal year'' after 
-        ``$2,753,672''.
-
+        (1) by striking ``fiscal year 2017'' and inserting ``for each 
+    of fiscal years 2017 through 2023''; and
+        (2) by inserting ``for each such fiscal year'' after 
+    ``$2,753,672''.
 SEC. 3. REAUTHORIZATION OF ASSISTANCE TO FIREFIGHTERS GRANTS PROGRAM 
-              AND THE FIRE PREVENTION AND SAFETY GRANTS PROGRAM.
-
+AND THE FIRE PREVENTION AND SAFETY GRANTS PROGRAM.
     (a) Sunset.--Section 33(r) of the Federal Fire Prevention and 
 Control Act of 1974 (15 U.S.C. 2229(r)) is amended by striking ``the 
 date that is 5 years after the date of the enactment of the Fire Grants 
@@ -60,17 +52,13 @@ striking ``2017'' and inserting ``2023''.
 Firefighters Grants Program.--Section 33(c)(3) of the Federal Fire 
 Prevention and Control Act of 1974 (15 U.S.C. 2229(c)(3)) is amended by 
 adding at the end the following:
-                    ``(N) To provide specialized training to 
-                firefighters, paramedics, emergency medical service 
-                workers, and other first responders to recognize 
-                individuals who have mental illness and how to properly 
-                intervene with individuals with mental illness, 
-                including strategies for verbal de-escalation of 
-                crisis.''.
-
+            ``(N) To provide specialized training to firefighters, 
+        paramedics, emergency medical service workers, and other first 
+        responders to recognize individuals who have mental illness and 
+        how to properly intervene with individuals with mental illness, 
+        including strategies for verbal de-escalation of crisis.''.
 SEC. 4. REAUTHORIZATION OF STAFFING FOR ADEQUATE FIRE AND EMERGENCY 
-              RESPONSE GRANT PROGRAM.
-
+RESPONSE GRANT PROGRAM.
     (a) Sunset.--Section 34(k) of the Federal Fire Prevention and 
 Control Act of 1974 (15 U.S.C. 2229a(k)) is amended by striking ``the 
 date that is 5 years after the date of the enactment of the Fire Grants 
@@ -97,14 +85,12 @@ Grant Program; Repeal of Authority for Certain Use of Grant Amounts
 Transferred to Assistance to Firefighters Grants Program.--Section 
 34(a)(1)(B) of the Federal Fire Prevention and Control Act of 1974 (15 
 U.S.C. 2229a(a)(1)(B)) is amended--
-            (1) by inserting ``or to change the status of part-time or 
-        paid-on-call (as defined in section 33(a)) firefighters to 
-        full-time firefighters'' after ``firefighters''; and
-            (2) by striking ``and to provide'' and all that follows 
-        through ``of crises''.
-
+        (1) by inserting ``or to change the status of part-time or 
+    paid-on-call (as defined in section 33(a)) firefighters to full-
+    time firefighters'' after ``firefighters''; and
+        (2) by striking ``and to provide'' and all that follows through 
+    ``of crises''.
 SEC. 5. TRAINING ON ADMINISTRATION OF FIRE GRANT PROGRAMS.
-
     (a) In General.--The Administrator of the Federal Emergency 
 Management Agency, acting through the Administrator of the United 
 States Fire Administration, may develop and make widely available an 
@@ -115,17 +101,14 @@ Control Act of 1974 (15 U.S.C. 2229 and 2229a).
     (b) Requirements.--The Administrator of the Federal Emergency 
 Management Agency shall ensure that any training developed and made 
 available under subsection (a) is--
-            (1) tailored to the financial and time constraints of 
-        members of the fire and emergency response community; and
-            (2) accessible to all individuals in the career, 
-        combination, paid-on-call, and volunteer fire and emergency 
-        response community.
-
+        (1) tailored to the financial and time constraints of members 
+    of the fire and emergency response community; and
+        (2) accessible to all individuals in the career, combination, 
+    paid-on-call, and volunteer fire and emergency response community.
 SEC. 6. FRAMEWORK FOR OVERSIGHT AND MONITORING OF THE ASSISTANCE TO 
-              FIREFIGHTERS GRANTS PROGRAM, THE FIRE PREVENTION AND 
-              SAFETY GRANTS PROGRAM, AND THE STAFFING FOR ADEQUATE FIRE 
-              AND EMERGENCY RESPONSE GRANT PROGRAM.
-
+FIREFIGHTERS GRANTS PROGRAM, THE FIRE PREVENTION AND SAFETY GRANTS 
+PROGRAM, AND THE STAFFING FOR ADEQUATE FIRE AND EMERGENCY RESPONSE 
+GRANT PROGRAM.
     (a) Framework.--Not later than 90 days after the date of enactment 
 of this Act, the Administrator of the Federal Emergency Management 
 Agency, acting through the Administrator of the United States Fire 
@@ -136,22 +119,19 @@ abuse, and mismanagement relating to the grants programs under sections
 U.S.C. 2229 and 2229a).
     (b) Elements.--The framework required under subsection (a) shall 
 include the following:
-            (1) Developing standardized guidance and training for all 
-        participants in the grant programs described in subsection (a).
-            (2) Conducting regular risk assessments.
-            (3) Conducting desk reviews and site visits.
-            (4) Enforcement actions to recoup potential questionable 
-        costs of grant recipients.
-            (5) Such other oversight and monitoring tools as the 
-        Administrator of the Federal Emergency Management Agency 
-        considers necessary to mitigate and minimize fraud, waste, 
-        abuse, and mismanagement relating to the grant programs 
-        described in subsection (a).
+        (1) Developing standardized guidance and training for all 
+    participants in the grant programs described in subsection (a).
+        (2) Conducting regular risk assessments.
+        (3) Conducting desk reviews and site visits.
+        (4) Enforcement actions to recoup potential questionable costs 
+    of grant recipients.
+        (5) Such other oversight and monitoring tools as the 
+    Administrator of the Federal Emergency Management Agency considers 
+    necessary to mitigate and minimize fraud, waste, abuse, and 
+    mismanagement relating to the grant programs described in 
+    subsection (a).
 
-            Passed the House of Representatives December 18, 2017.
+                               Speaker of the House of Representatives.
 
-            Attest:
-
-                                                 KAREN L. HAAS,
-
-                                                                 Clerk.
+                            Vice President of the United States and    
+                                               President of the Senate.
