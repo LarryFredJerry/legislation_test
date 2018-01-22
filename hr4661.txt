@@ -1,38 +1,21 @@
 [Congressional Bills 115th Congress]
 [From the U.S. Government Publishing Office]
-[H.R. 4661 Engrossed in House (EH)]
+[H.R. 4661 Received in Senate (RDS)]
 
 <DOC>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
 115th CONGRESS
   1st Session
                                 H. R. 4661
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                           December 19, 2017
+
+                                Received
 
 _______________________________________________________________________
 
@@ -169,18 +152,6 @@ include the following:
 
             Attest:
 
+                                                 KAREN L. HAAS,
+
                                                                  Clerk.
-115th CONGRESS
-
-  1st Session
-
-                               H. R. 4661
-
-_______________________________________________________________________
-
-                                 AN ACT
-
-To reauthorize the United States Fire Administration, the Assistance to 
-  Firefighters Grants program, the Fire Prevention and Safety Grants 
-  program, and the Staffing for Adequate Fire and Emergency Response 
-                 grant program, and for other purposes.
